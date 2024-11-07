@@ -1,0 +1,17 @@
+{
+  "name": "day-2",
+  "version": "1.0.0",
+  "description": "task",
+  "main": "express-server.js",
+  "type": "module",
+  "scripts": {
+    "test": "HTTP,Express"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "express-validator": "^7.2.0",
+    "uuid": "^10.0.0"
+  }
+}
